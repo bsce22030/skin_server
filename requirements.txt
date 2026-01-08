@@ -1,6 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 fastapi
 uvicorn
-torch
-torchvision
 pillow
 python-multipart
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
